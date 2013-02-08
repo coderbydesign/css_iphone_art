@@ -1,0 +1,71 @@
+#frame {
+  border-radius: 30px;
+	border: 1px #777 solid;
+	height: 365px;
+	width: 190px;
+	position: absolute;
+	background-repeat: no-repeat;
+}
+
+#home_button {
+	border: 1px solid #777;
+	height: 34px;
+	width: 34px;
+	border-radius: 17px;
+	position: absolute;
+	left: 86px;
+	top: 326px;
+}
+
+#home_button_center {
+	border: 1px solid #777;
+	height: 13px;
+	width: 13px;
+	border-radius: 5px;
+	position: absolute;
+	left: 97px;
+	top: 337px;
+}
+
+#screen {
+  color: #fff;
+  padding: 5px;
+  font-size: 5pt;
+  font-family:helvetica;
+	background: black;
+	position: absolute;
+	height: 225px;
+	width: 149px;
+	left: 24px;
+	top: 74px;
+}
+
+#camera {
+	background: black;
+	height: 9px;
+	width: 9px;
+	border-radius: 4.5px;
+	position: absolute;
+	left: 70px;
+	top: 40px;
+}
+
+#speaker {
+	background: black;
+	height: 3px;
+	width: 29px;
+	border-radius: 10px;
+	position: absolute;
+	left: 90px;
+	top: 42px;
+}
+
+#sensor {
+	background: black;
+	height: 3px;
+	width: 18px;
+	border-radius: 10px;
+	position: absolute;
+	left: 95px;
+	top: 28px;
+}
